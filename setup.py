@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="turtler",
-    version="0.0.2",
+    version="0.0.3",
     author="Aaryan Dehade",
     author_email="dehadeaaryan@gmail.com",
-    description="A package to create turtle graphics in python",
+    description="A fun way to get started with graphics and data science in python",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/dehadeaaryan/turtler",
