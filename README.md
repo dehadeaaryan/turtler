@@ -20,7 +20,7 @@ Turtler is built on top of [turtle](https://docs.python.org/3/library/turtle.htm
 
 #### Move and Draw
 
-```
+```Python
 myTurtler.go(DIRECTIONS)
 myTurtler.draw(DIRECTIONS)
 ```
@@ -36,7 +36,7 @@ DIRECTIONS is a string consisting of:-
 | r         | RIGHT     |
 
 EXAMPLE:-
-```
+```Python
 directions = "uldr"
 myTurtler.go(directions)
 ```
